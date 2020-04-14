@@ -1,4 +1,4 @@
-# my_app
+# Word Pair
 
 A new Flutter project.
 
